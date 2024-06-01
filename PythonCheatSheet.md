@@ -12,6 +12,9 @@
 
 `name_length = "4"` assigns the string value `"4"` to the variable `name_length`.
 
+`name_list = ["ghost", "7331"]` assigns a list containing the values `"ghost"` and `"7331"` to the variable `name_list`.
+
+
 
 
 
