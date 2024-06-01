@@ -3,3 +3,6 @@
 `if __name__ == "__main__"` ensures that the block of code it controls runs only when the script is executed directly, not when it is imported as a module.
 
 `def function():` is the syntax for defining a function in Python.
+
+`name = 'ghost'` assigns the value `'ghost'` to the variable `name`.
+
