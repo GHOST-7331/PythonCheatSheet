@@ -6,3 +6,6 @@
 
 `name = 'ghost'` assigns the value `'ghost'` to the variable `name`.
 
+`print(name)` will output the value `'ghost'` to the terminal.
+
+
