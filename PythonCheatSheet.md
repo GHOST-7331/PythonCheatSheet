@@ -8,4 +8,7 @@
 
 `print(name)` will output the value `'ghost'` to the terminal.
 
+`name, name_length = "ghost", 5` assigns the value `'ghost'` to the variable `name` and the value `5` to the variable `name_length`.
+
+
 
